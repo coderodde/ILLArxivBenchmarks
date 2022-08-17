@@ -1,0 +1,4 @@
+package com.github.coderodde.jmh_generated;
+public class ILLBenchmark4Arxiv_TreeListPrepopulatedBenchmarkState_jmhType extends ILLBenchmark4Arxiv_TreeListPrepopulatedBenchmarkState_jmhType_B3 {
+}
+
